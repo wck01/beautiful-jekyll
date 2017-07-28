@@ -4,4 +4,4 @@ title: Shiny Apps
 subtitle: Useful Shiny Apps deveopled by me.
 ---
 
-![alt-text-1](hello_world.jpg "title-1") ![alt-text-2](hello_world.jpg "title-2")
+![a](https://github.com/wck01/wck01.github.io/blob/master/img/hello_world.jpeg "title-1") ![](https://github.com/wck01/wck01.github.io/blob/master/img/hello_world.jpeg "title-2")
