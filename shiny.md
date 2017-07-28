@@ -4,8 +4,9 @@ title: Shiny Apps
 subtitle: Useful Shiny Apps deveopled by me.
 ---
 
-<center> ![](/img/hello_world.jpeg "title-1") ![](/img/hello_world.jpeg "title-2") </center>
-
+<p align="center">
+  <img width="300" height="300" src=/img/hello_world.jpeg>
+</p>
 
 | - | - |
 |---|---|
