@@ -1,12 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Shiny Apps
+subtitle: Useful Shiny Apps deveopled by me.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+![alt-text-1](hello_world.jpg "title-1") ![alt-text-2](hello_world.jpg "title-2")
